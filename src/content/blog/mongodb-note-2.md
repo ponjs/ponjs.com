@@ -1,11 +1,9 @@
 ---
-
 title: MongoDB笔记（二）- 查询文档
 pubDatetime: 2023-03-29T03:12:00.000Z
 tags:
-
-- 后端
-  ---s
+  - 后端
+---
 
 ```
 find(<query>, <projection>)
