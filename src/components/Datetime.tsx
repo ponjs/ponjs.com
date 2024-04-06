@@ -21,7 +21,7 @@ export default function Datetime({
       <svg
         xmlns="http://www.w3.org/2000/svg"
         className={`${
-          size === "sm" ? "scale-90" : "scale-100"
+          size === "sm" ? "scale-75" : "scale-100"
         } inline-block h-6 w-6 min-w-[1.375rem] fill-skin-base`}
         aria-hidden="true"
       >
@@ -64,9 +64,9 @@ const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
   return (
     <>
       <time dateTime={myDatetime.toISOString()}>{date}</time>
-      <span aria-hidden="true"> | </span>
-      <span className="sr-only">&nbsp;at&nbsp;</span>
-      <span className="text-nowrap">{time}</span>
+      {/* <span aria-hidden="true"> | </span> */}
+      {/* <span className="sr-only">&nbsp;at&nbsp;</span>
+      <span className="text-nowrap">{time}</span> */}
     </>
   );
 };

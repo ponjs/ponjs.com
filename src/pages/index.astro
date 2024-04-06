@@ -22,7 +22,35 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 <Layout>
   <Header />
   <main id="main-content">
-    <section id="hero">
+    <section id="featured">
+      <h2>Projects</h2>
+      <ul class="space-y-3 my-6">
+        <li>
+          <a
+            href="https://github.com/ponjs/craco-plugin-env"
+            target="_blank"
+            class="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0 hover:underline"
+          >
+            <h3>craco-plugin-env</h3>
+          </a>
+          <span class="text-sm italic">craco env 插件</span>
+        </li>
+        <li>
+          <a
+            href="https://github.com/ponjs/uni-ajax"
+            target="_blank"
+            class="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0 hover:underline"
+          >
+            <h3>uni-ajax</h3>
+          </a>
+          <span class="text-sm italic">轻量级 uni-app 网络请求库</span>
+        </li>
+      </ul>
+    </section>
+
+    <Hr />
+
+    <!-- <section id="hero">
       <h1>Mingalaba</h1>
       <a
         target="_blank"
@@ -67,7 +95,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       }
     </section>
 
-    <Hr />
+    <Hr /> -->
 
     {
       featuredPosts.length > 0 && (
@@ -92,7 +120,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
+          <h2>Writing</h2>
           <ul>
             {recentPosts.map(
               ({ data, slug }, index) =>
