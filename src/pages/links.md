@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: Links
 ---
 
-## Util
+## Utils
 
 - <img class="favicon" src="https://tinify.cn/images/favicon.ico" /> [TinyPNG](https://tinify.cn): 图片压缩
 - <img class="favicon" src="https://regex-vis.com/favicon.png" /> [Regex Vis](https://regex-vis.com): 正则可视化编辑器
@@ -20,5 +20,9 @@ title: Links
 
 - <img class="favicon" src="https://chat.vercel.ai/favicon.ico" /> [Vercel AI Chatbot](https://chat.vercel.ai)
 - <img class="favicon" src="https://chat18.aichatos.xyz/favicon.svg" /> [AIChatOS](https://chat18.aichatos.xyz)
+
+## Others
+
+- <img class="favicon" src="https://sunsetbot.top/static/media/static_image/favicon.ico" /> [火烧云分析与记录](https://sunsetbot.top)
 
 <style>.favicon { display: inline-block !important; height: 18px !important; margin-bottom: -4px !important; background-color: #fff; border-radius: 0 !important; }</style>
