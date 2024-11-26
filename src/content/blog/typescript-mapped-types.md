@@ -1,6 +1,6 @@
 ---
 title: Typescript 映射类型（Mapped types）
-pubDatetime: 2023-03-29T03:20:00.000Z
+pubDatetime: 2023-04-29T03:20:00.000Z
 tags:
   - 前端
 ---

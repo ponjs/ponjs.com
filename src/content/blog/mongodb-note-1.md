@@ -1,6 +1,6 @@
 ---
 title: MongoDB笔记（一）- 创建文档
-pubDatetime: 2023-03-29T03:11:00.000Z
+pubDatetime: 2024-05-29T03:11:00.000Z
 tags:
   - 后端
 ---

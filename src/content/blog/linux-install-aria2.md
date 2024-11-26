@@ -1,6 +1,6 @@
 ---
 title: Linux 安装 Aria2
-pubDatetime: 2023-03-29T01:35:00.000Z
+pubDatetime: 2024-03-29T01:35:00.000Z
 tags:
   - 服务器
 ---

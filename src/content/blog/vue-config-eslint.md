@@ -1,6 +1,6 @@
 ---
 title: vue 配置 eslint + prettier
-pubDatetime: 2023-03-29T03:18:00.000Z
+pubDatetime: 2023-06-29T03:18:00.000Z
 tags:
   - 前端
 ---
