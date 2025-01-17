@@ -9,6 +9,7 @@ title: Links
 - <img class="favicon" src="https://regex-vis.com/favicon.png" /> [Regex Vis](https://regex-vis.com): 正则可视化编辑器
 <!-- - <img class="favicon" src="https://www.receivesms.io/favicon.ico" /> [receiveSMS](https://www.receivesms.io): 国外的手机接码平台 -->
 - <img class="favicon" src="https://uicolors.app/favicon.ico" /> [UIColors](https://uicolors.app)
+- <img class="favicon" src="https://difftext.com/favicon-32x32.png" /> [Diff Text](https://difftext.com)
 
 ## Docs
 
