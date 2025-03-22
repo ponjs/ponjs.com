@@ -54,6 +54,7 @@ warp-cli connect
         ],
         "type": "field"
       }
+    ]
   }
 }
 ```
